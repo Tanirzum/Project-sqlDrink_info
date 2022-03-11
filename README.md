@@ -1,5 +1,5 @@
 # Project-sqlDrink_info
-Sql-practice
+Sql-practice-01
 ---
 Create table drink_info
 ```Sql
